@@ -4,7 +4,7 @@
  * DO NOT store state here - must be part of a stateless service
  */
 class AppConfig {
-    team = 'Testing Wickens Team';
-    version = '1.0.0';
+    team = 'Docker Wickens Team';
+    version = '1.0.0';touch
 }
 module.exports = AppConfig;
